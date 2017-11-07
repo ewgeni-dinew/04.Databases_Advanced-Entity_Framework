@@ -1,0 +1,2 @@
+# 04.Databases_Advanced-Entity_Framework
+I will be submitting exersices from the fourth course, that I am currently undergoing at the Software University(SoftUni) in Sofia, from 24.10.17 untill 10.12.17. In this course we will be working with one of the most modern ORM technologies-Entity Framework, which is a standard in C# and .Net apps. This is my second professional course at SoftUni, part of the DB Fundamentals Module. I will be using Microsoft Visual Studio 2017 and Microsofts SQL Server Management Studio 17.3 for the upcomming tasks.
